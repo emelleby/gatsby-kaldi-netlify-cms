@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: 'flex',
-          height: '150px',
+          height: '250px',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
@@ -41,52 +41,52 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
+            backgroundColor: 'rgba(76, 175, 80, 0.3)',
+            color: '$black',
+            lineHeight: '1.25',
             padding: '0.25em',
           }}
         >
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'green',
-            color: 'white',
+              'rgba(76, 175, 80, 0.3) 0.5rem 0px 0px, rgba(76, 175, 80, 0.3) -0.5rem 0px 0px',
+            backgroundColor: 'rgba(76, 175, 80, 0.3)',
+            color: '$black',
             lineHeight: '1',
             padding: '0.25em',
           }}
         >
           {subheading}
         </h3>
-      </div>
 
-      // Buttons
-      <div className="columns">
-        <div className="column is-12 has-text-centered">
-          <Link className="btn" to="/products">
-            See all products
-          </Link>
+        {/*Buttons*/}
+        <div className="columns">
+          <div className="column is-12 has-text-centered">
+            <Link className="btn" to="/products">
+              See all products
+            </Link>
+          </div>
         </div>
-      </div>
-      <div className="columns">
-        <div className="column is-12 has-text-centered">
-          <Link className="btn" to="/about">
-            About me
-          </Link>
+        <div className="columns">
+          <div className="column is-12 has-text-centered">
+            <Link className="btn" to="/about">
+              About me
+            </Link>
+          </div>
         </div>
-      </div>
-      <div className="columns">
-        <div className="column is-12 has-text-centered">
-          <Link className="btn" to="/blogg">
-            Gå til bloggen
-          </Link>
+        <div className="columns">
+          <div className="column is-12 has-text-centered">
+            <Link className="btn" to="/blogg">
+              Gå til bloggen
+            </Link>
+          </div>
         </div>
-      </div>
 
+      </div>
     </div>
 
     <section className="section section--gradient">
