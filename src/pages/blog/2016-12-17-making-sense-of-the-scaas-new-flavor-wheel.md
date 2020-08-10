@@ -1,33 +1,27 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Spiring
+date: 2020-08-10T14:30:55.674Z
+description: Spiring er en fin måte å introdusere mer grønt i kosten
+featuredpost: true
+featuredimage: /img/spiring.jpg
 tags:
-  - flavor
-  - tasting
+  - tips
+  - dyrking
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![spirer](/img/spiring.jpg "spirer")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Spirer er noe av det enkleste du kan dyrke hjemme. De trenger ikke jord engang! Det eneste du trenger for å komme i gang, er spirefrø og spireglass. Jeg kjøper mine frø og glass på Sanabona.no, men du finner som regel det meste i en helsekostforretning. Jeg synes spireglassene fra Geo, som de selger der, er enkle å bruke og fine i designet.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Et spireglass, ser ut som et syltetøyglass, men har lokk med netting i, slik at det skal være lett å sile av vannet. I tillegg følger med et lite stativ, slik at spireglasset kan stå i ca 45 graders helling, slik at overflødig vann renner ut. Slik unngår man at det blir mugg.
 
-## What the updates mean to you
+Jeg har ikke grønne fingre, men spirer får jeg til. Her er en enkel måte å gjøre det på:
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+* Fyll bunnen av glasset med spirefrø, ca 2 cm opp i glasset.
+* Fyll så på med vann og la det stå slik over natten (eller ca 8-10 timer)
+* På morgenen heller du av vannet og setter glasset på stativet
+* Du fyller opp glasset med vann for så å helle det ut med en gang, hver morgen og kveld. Glasset skal ikke stå i direkte sollys. 
+* Når spirene har vokst seg ut etter 3-5 dager, settes de den siste dagen i direkte sollys for at bladene skal bli grønne (da dannes det chlorofyll).
+* Nå er spirene ferdige, og de kan fylles i en lufttett boks som du oppbevarer i kjøleskap. Her holder de seg i ca en uke (kanskje lengre også). 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+**Lykke til!!**
