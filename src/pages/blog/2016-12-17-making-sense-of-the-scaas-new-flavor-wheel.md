@@ -9,7 +9,7 @@ tags:
   - tips
   - dyrking
 ---
-![spirer](/img/spiring.jpg "spirer")
+![](/img/spiring.jpg "spirer")
 
 Spirer er noe av det enkleste du kan dyrke hjemme. De trenger ikke jord engang! Det eneste du trenger for å komme i gang, er spirefrø og spireglass. Jeg kjøper mine frø og glass på Sanabona.no, men du finner som regel det meste i en helsekostforretning. Jeg synes spireglassene fra Geo, som de selger der, er enkle å bruke og fine i designet.
 
