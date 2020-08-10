@@ -54,7 +54,7 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'green',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -63,7 +63,32 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
       </div>
+
+      // Buttons
+      <div className="columns">
+        <div className="column is-12 has-text-centered">
+          <Link className="btn" to="/products">
+            See all products
+          </Link>
+        </div>
+      </div>
+      <div className="columns">
+        <div className="column is-12 has-text-centered">
+          <Link className="btn" to="/about">
+            About me
+          </Link>
+        </div>
+      </div>
+      <div className="columns">
+        <div className="column is-12 has-text-centered">
+          <Link className="btn" to="/blogg">
+            Gå til bloggen
+          </Link>
+        </div>
+      </div>
+
     </div>
+
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
