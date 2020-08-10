@@ -1,19 +1,18 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Om meg
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![me](/img/3bilder.jpg "Image title")
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Jeg er utdannet lege og er opptatt av å forebygge og reversere sykdommer gjennom en sunn livsstil. Jeg har selv hatt mange helseplager pga økt inflammasjon i kroppen, men har gjennom en anti inflammatorisk livsstil blitt kvitt disse plagene og i stedet fått mer overskudd og livsglede. Det ønsker jeg nå at andre også kan oppnå ved å tilegne seg denne livsstilen.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+På kurs som holdes for leger de siste årene, har det vært mye snakk om inflammasjon som årsak til sykdom. Allikevel gjøres det lite annet innenfor skolemedisinen i dag enn å forsøke å "temme" immunforsvaret med såkalte "immunmodulerende" medisiner. Du kjenner kanskje til at pasienter med Chrons eller revmatisk artritt kan få tilbud om slike medisiner. Men vi vet jo at veldig mange andre tilstander også skyldes inflammasjon, tilstander eller sykdommer der man foreløpig ikke har prøvd ut slike medisiner enda.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Jeg ønsker å rette fokus mot at vi ikke trenger å vente på slike medisiner, men heller gå for å forebygge eller reversere sykdommer som er forårsaket av inflammasjon. Per i dag er det de fleste sykdommer vi kjenner til, til og med psykiske lidelser kan oppstå pga økt inflammasjon. Det skal sies at det da selvfølgelig er snakk om flere årsaker som kan ligge til bunn, men jeg tror det kan være helt avgjørende for folk å få dempet inflammasjonen i kroppen for å bli helt frisk. Uansett om det gjelder en fysisk eller psykisk lidelse.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Jeg fremmer derfor det jeg kaller en anti inflammatorisk livsstil som består av å spise hovedsaklig plantebasert mat, være i bevegelse og stressmestring.
+
+Jeg håper at jeg gjennom min blogg, Facebookside og etterhvert bok, vil kunne inspirere flere til å leve et litt grønnere liv for å få mer ut av hverdagene.
+
+Dersom du ønsker personlig veiledning for lettere å komme i gang, ta kontakt ved å trykke på knappen nedenfor.
