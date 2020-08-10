@@ -22,15 +22,15 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        /*backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,*/
       }}
     >
       <div
         style={{
           display: 'flex',
           height: '250px',
-          lineHeight: '1',
+          lineHeight: '1.25',
           justifyContent: 'space-around',
           alignItems: 'left',
           flexDirection: 'column',
@@ -41,9 +41,9 @@ export const IndexPageTemplate = ({
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
               boxShadow:
-                'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-              backgroundColor: 'rgba(76, 175, 80, 0.3)',
-              color: '$black',
+                'rgba(76, 175, 80, 0.6) 0.5rem 0px 0px, rgba(76, 175, 80, 0.6) -0.5rem 0px 0px',
+              backgroundColor: 'rgba(76, 175, 80, 0.6)',
+              color: 'white',
               lineHeight: '1.25',
               padding: '0.25em',
             }}
@@ -54,9 +54,9 @@ export const IndexPageTemplate = ({
             className="is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
               boxShadow:
-                'rgba(76, 175, 80, 0.3) 0.5rem 0px 0px, rgba(76, 175, 80, 0.3) -0.5rem 0px 0px',
-              backgroundColor: 'rgba(76, 175, 80, 0.3)',
-              color: '$black',
+                'rgba(76, 175, 80, 0.6) 0.5rem 0px 0px, rgba(76, 175, 80, 0.6) -0.5rem 0px 0px',
+              backgroundColor: 'rgba(76, 175, 80, 0.6)',
+              color: 'white',
               lineHeight: '1',
               padding: '0.25em',
             }}
@@ -65,7 +65,7 @@ export const IndexPageTemplate = ({
           </h3>
 
           {/*Buttons*/}
-          <div className="columns">
+          <div className="columns" style={{marginTop: 'auto'}}>
             <div className="column is-4 has-text-centered">
               <Link className="btn" to="/products">
                 See all products
