@@ -44,14 +44,14 @@ intro:
         bestående av god, plantebasert kost blitt kvitt disse og i stedet fått
         mer overskudd og livsglede. Nå ønsker jeg å hjelpe andre med å oppnå det
         samme.
-    - image: /img/logo.svg
+    - image: /img/coffee.png
       text: >
         Denne smoothien er en blanding mellom sjokolademousse og softis,
         forskjellen er bare at denne er proppet med gode næringsstoffer. Her
         finner du oppskriften på min supersmoothie. Å introdusere denne til
         kostholdet ditt, vil være et steg i retning av bedre helse.
       body: >-
-        ![](/img/ch-smoothie.png)
+        ![smoothie](/img/ch-smoothie.png)
 
 
         Denne smoothien er en blanding mellom sjokolademousse og softis, forskjellen er bare at denne er proppet med gode næringsstoffer. Her finner du oppskriften på min supersmoothie. Å introdusere denne til kostholdet ditt, vil være et steg i retning av bedre helse.
