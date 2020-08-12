@@ -30,7 +30,7 @@ intro:
         mer inspirasjon til å leve en helsefremmende livsstil. Du trenger ikke
         gå **"all in"** med en gang, alle skritt i riktig retning vil være
         positivt.
-    - image: /img/drg.jpg
+    - image: /img/profil-profil.png
       text: >
         Jeg er utdannet lege og er opptatt av å forebygge og reversere sykdommer
         gjennom en sunn livsstil. Jeg har selv hatt mange helseplager pga økt
@@ -44,7 +44,7 @@ intro:
         bestående av god, plantebasert kost blitt kvitt disse og i stedet fått
         mer overskudd og livsglede. Nå ønsker jeg å hjelpe andre med å oppnå det
         samme.
-    - image: /img/coffee.png
+    - image: /img/ch-smoothie.png
       text: >
         Denne smoothien er en blanding mellom sjokolademousse og softis,
         forskjellen er bare at denne er proppet med gode næringsstoffer. Her
