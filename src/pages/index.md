@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dr.Gunhild
-image: /img/forsidebilde_hjemmeside_png.png
+image: /img/forside-1920x1080.png
 heading: Dr.Gunhild
 subheading: Ønsker du å få mer overskudd og livsglede samtidig som du kan
   forebygge og reversere sykdommer? Her finner du tips og inspirasjon til et mer
@@ -21,7 +21,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/blog.png
+    - image: /img/blogbilde.png
       text: >
         På bloggen finner du flere oppskrifter på fristende plantebasert mat og
         mer inspirasjon til å leve en helsefremmende livsstil. Du trenger ikke
@@ -30,7 +30,7 @@ intro:
         mer inspirasjon til å leve en helsefremmende livsstil. Du trenger ikke
         gå **"all in"** med en gang, alle skritt i riktig retning vil være
         positivt.
-    - image: /img/profil-profil.png
+    - image: /img/profil-profil-1.png
       text: >
         Jeg er utdannet lege og er opptatt av å forebygge og reversere sykdommer
         gjennom en sunn livsstil. Jeg har selv hatt mange helseplager pga økt
